@@ -10,6 +10,9 @@ I am Srikanth, MSc(Statistics). I have various interests like Data Science and A
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JujjuruSrikanth)
 
+
+![counter](https://github.com/JujjuruSrikanth.m.pipedream.net)
+
 ### Contact me on
 <a href="mailto:jujjurusrikanth555@gmail.com">
   <img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
