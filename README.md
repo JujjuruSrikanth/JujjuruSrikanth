@@ -3,6 +3,11 @@
 I am Srikanth, MSc(Statistics). I have various interests like Data Science and Artificial Intelligence. Working everyday to make my dreams a reality! :sunglasses:
 
 
+
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JujjuruSrikanth&repo=srikanth-personal)
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JujjuruSrikanth)
 
 ### Contact me on
