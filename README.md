@@ -5,13 +5,13 @@ I am Srikanth, MSc(Statistics). I have various interests like Data Science and A
 
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JujjuruSrikanth&repo=python)
+#![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JujjuruSrikanth&repo=python)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JujjuruSrikanth)
 
 
-![counter](https://github.com/JujjuruSrikanth.m.pipedream.net)
+
 
 ### Contact me on
 <a href="mailto:jujjurusrikanth555@gmail.com">
