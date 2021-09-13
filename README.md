@@ -1,11 +1,10 @@
 ### Hi there 👋
-<img align="right" height="230" src="https://static01.nyt.com/images/2020/04/15/business/15Techfix-illo/15Techfix-illo-jumbo.gif?quality=90&auto=webp">
-I am Srikanth, MSc(Statistics). I have various interests like Data Science and Artificial Intelligence. Working everyday to make my dreams a reality! :sunglasses:
+
+I am Srikanth, MSc(Statistics). 
 
 
 
 
-#![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JujjuruSrikanth&repo=python)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JujjuruSrikanth)
